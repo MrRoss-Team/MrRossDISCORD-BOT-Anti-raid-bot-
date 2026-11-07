@@ -1,0 +1,2 @@
+Wrzuć tu DejaVuSans.ttf i DejaVuSans-Bold.ttf, żeby karta awansu miała dokładnie tę samą czcionkę co wzór.
+Bez nich bot użyje Verdany z Windowsa (wygląda prawie identycznie).
